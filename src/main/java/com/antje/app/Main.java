@@ -9,7 +9,8 @@ import java.util.*;
 public class Main {
 
     public static void main(String args[]){
-        start();
+        System.out.print("Also Ohne geforderte Nutzereingabe gehts!");
+        // start();
     }
 
     /**
